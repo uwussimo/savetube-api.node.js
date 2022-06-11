@@ -8,13 +8,17 @@
 
 This application provides API to download videos from `YouTube`, `TikTok` and `Instagram` and even more.
 
-# Table of Contents
-1. [Installation](#installation)
-2. [API Docs](#api-docs)
-    - [x] 2.1 [Youtube](#download-highest-quality-video-from-youtube)
-    - [x] 2.2 [TikTok](#download-video-with-watermark-and-no-watermark-and-audio-files-from-tiktok)
-3. [Todo List](#todo)
-4. [Sponsors](#sponsors)
+## Table of Contents
+
+- [SaveTube v0.1.0](#savetube-v010)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [API Docs](#api-docs)
+    - [Download highest quality video from YouTube](#download-highest-quality-video-from-youtube)
+    - [Download video with watermark and no watermark and audio files from TikTok](#download-video-with-watermark-and-no-watermark-and-audio-files-from-tiktok)
+  - [Todo](#todo)
+  - [Sponsors](#sponsors)
+    - [List of Sponsors](#list-of-sponsors)
 
 ## Installation
 
