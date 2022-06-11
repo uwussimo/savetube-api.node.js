@@ -52,9 +52,9 @@ yarn start
   - [ ] With audio, video and quality options
 - [ ] Save Download video id to Application Database for fast download
 - [ ] Download from Instagram
-- [ ] Download video from TikTok
-  - [ ] With watermark
-  - [ ] Without Watermark
+- [x] Download video from TikTok
+  - [x] With watermark
+  - [x] Without Watermark
 - [ ] Auth Based download with `API Token`
 - [ ] Download from LinkedIn
 

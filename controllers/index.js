@@ -1,2 +1,5 @@
-const { downloadFromYouTube } = require("../controllers/download.controller");
-module.exports = { downloadFromYouTube };
+const {
+  downloadFromYouTube,
+  downloadFromTiktok,
+} = require("../controllers/download.controller");
+module.exports = { downloadFromYouTube, downloadFromTiktok };

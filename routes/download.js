@@ -1,9 +1,8 @@
-const { downloadFromYouTube } = require("../controllers/");
-
-// router download from youtube
 const router = require("express").Router();
+const { downloadFromYouTube, downloadFromTiktok } = require("../controllers/");
 
 router.post("/yt/", downloadFromYouTube);
+router.post("/tt/", downloadFromTiktok);
 
 router.get("*", (req, res) => {
   res.status(200).json({
