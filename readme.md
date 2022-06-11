@@ -38,7 +38,7 @@ yarn start
 
 Download Options:
 
-### YouTube
+### Download highest quality video from YouTube
 
 - URL: `/download/yt/`
 - METHOD: `POST`
@@ -50,7 +50,7 @@ Download Options:
   }
   ```
 
-### Download file from TikTok
+### Download video with watermark and no watermark and audio files from TikTok
 
 - URL: `/download/tt/`
 - METHOD: `POST`
