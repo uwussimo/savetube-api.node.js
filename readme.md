@@ -2,7 +2,7 @@
 
 **Social Media Video Downloader API using NodeJS!**
 
-ソーシャルメディアビデオダウンローダーAPI
+ソーシャルメディアビデオダウンローダー API
 
 ![Banner](./public/src/img/header.png "saveTube Banner")
 
@@ -36,9 +36,23 @@ yarn start
 
 ## API Docs
 
-**Download file from youtube:**
+Download Options:
+
+### YouTube
 
 - URL: `/download/yt/`
+- METHOD: `POST`
+- Request body:
+
+  ```JSON
+  {
+    "url": "any youtube url"
+  }
+  ```
+
+### Download file from TikTok
+
+- URL: `/download/tt/`
 - METHOD: `POST`
 - Request body:
 
