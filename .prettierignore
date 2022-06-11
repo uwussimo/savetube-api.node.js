@@ -1,0 +1,3 @@
+build
+# Ignore all HTML files:
+*.env
