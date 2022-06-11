@@ -1,4 +1,6 @@
-# SaveTube - Social Media video downloader API using NodeJS
+# SaveTube v0.1.0
+
+**Social Media Video Downloader API using NodeJS!**
 
 ![Banner](./public/src/img/header.png "saveTube Banner")
 
@@ -6,21 +8,21 @@ This application provides API to download videos from `YouTube`, `TikTok` and `I
 
 ## Installation
 
-1. Clone the repo
+**Clone the repo:**
 
 ```git
 git clone git@github.com:MrAbdurakhimov/savetube-api.node.js.git
 ```
 
-2. Install using [`yarn`](https://yarnpkg.com/getting-started/install)
+**Install using** [`yarn`](https://yarnpkg.com/getting-started/install)
 
 ```yarn
 yarn
 ```
 
-3. Setup `.env` file using `.env` public example file:
+**Setup** `.env` **file using** `.env` **public example file:**
 
-4. Run the application in development or in production mode
+**Then run the application in development or in production mode:**
 
 ```yarn
 yarn dev
@@ -32,7 +34,7 @@ yarn start
 
 ## API Docs
 
-Download file from youtube:
+**Download file from youtube:**
 
 - URL: `/download/yt/`
 - METHOD: `POST`
@@ -55,3 +57,11 @@ Download file from youtube:
   - [ ] Without Watermark
 - [ ] Auth Based download with `API Token`
 - [ ] Download from LinkedIn
+
+## Sponsors
+
+[Sponsore the project 🤍](https://payme.uz/@codeflow)
+
+### List of Sponsors
+
+So far myself 😂
