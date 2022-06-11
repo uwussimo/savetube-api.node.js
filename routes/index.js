@@ -1,9 +1,11 @@
-const router = require('express').Router();
+const router = require("express").Router();
 
-router.get('*', (req, res) => {
+router.use("/download", require("./download"));
+
+router.get("*", (req, res) => {
   res.status(404).json({
     statusCode: 404,
-    message: 'Page not found',
+    message: "Page not found",
   });
 });
 
