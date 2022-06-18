@@ -58,7 +58,7 @@ Download Options:
 
   ```JSON
   {
-    "url": "any youtube url"
+    "url": "Any YouTube URL"
   }
   ```
 
@@ -70,7 +70,7 @@ Download Options:
 
   ```JSON
   {
-    "url": "any youtube url"
+    "url": "Any TikTok URL"
   }
   ```
 
@@ -89,7 +89,3 @@ Download Options:
 ## Sponsors
 
 [Sponsore the project 🤍](https://payme.uz/@codeflow)
-
-### List of Sponsors
-
-So far myself 😂
